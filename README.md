@@ -14,4 +14,4 @@ Layers- 2 layers seemed to work the best.  When I tried 3 layers the accuracy dr
 Activation functions- I used the sigmoid function.
 To get better accuracy, I played around with the number of layers and neurons. 
 ## Summary:
-In summary I recommend playing around with Neural network play ground to try and optimize the model.  
+In summary I recommend playing around with Neural network play ground to try and optimize the model.  I was unable to achieve 75% accuracy or better. 
