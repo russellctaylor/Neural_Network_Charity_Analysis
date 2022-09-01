@@ -1,9 +1,9 @@
-## Neural_Network_Charity_Analysis
+# Neural_Network_Charity_Analysis
 
-# Overview
+## Overview
 The goal was to use a binary classifier capable of predicting whether applicants will be successful if funded by Alphabet Soup.
 
-# Results
+## Results
 Data preprocessing
 	Targets - IS_SUCCESSFUL
 	Features – everything else minus the data removed from binning 
@@ -13,5 +13,5 @@ Compiling, Training, Evaluating Model
 Layers- 2 layers seemed to work the best.  When I tried 3 layers the accuracy dropped.
 Activation functions- I used the sigmoid function.
 To get better accuracy, I played around with the number of layers and neurons. 
-# Summary:
+## Summary:
 In summary I recommend playing around with Neural network play ground to try and optimize the model.  
